@@ -1,0 +1,2 @@
+# miniprj
+Electricity Bill Amount
